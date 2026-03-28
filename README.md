@@ -13,10 +13,10 @@ git push -u origin main
 git push
     push current branch if have upstream
 
-bit checkout -b
+git checkout -b
     create brannch and checkout
 
-bit branchs
+git branch -a
     list branches
 
 git clone
